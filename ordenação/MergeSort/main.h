@@ -1,0 +1,1 @@
+void mergeSort(int *vetor, int posicaoInicio, int posicaoFim);

@@ -1,0 +1,2 @@
+void ordena(int *v);
+void swap(int *a, int *b);

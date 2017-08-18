@@ -1,0 +1,2 @@
+void ordena(int *vetor);
+void swap(int *a, int *b);
